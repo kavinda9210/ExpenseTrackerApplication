@@ -77,4 +77,4 @@ Check out the visual design of the Expense Tracker below:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kavinda9210/ExpenseTrackerApplication.git
+   git clone https://github.com/kavinda9210/ExpenseTrackerApplication
