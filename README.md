@@ -67,7 +67,7 @@ You'll also need:
 Check out the visual design of the Expense Tracker below:
 
 ### 📸 **Home Page**:
-![Home Page](https://github.com/kavinda9210/ExpenseTrackerApplication/tree/main/ExpenseTracker/screenshots/expence.png)
+![Home Page](https://github.com/kavinda9210/ExpenseTrackerApplication/blob/main/ExpenseTracker/screenshots/expence.PNG))
 
 
 
